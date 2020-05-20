@@ -15,6 +15,9 @@ Go to http://localhost:8000
 > deno run --allow-net request.ts
 
 
+will return { userId: 1, id: 1, title: "delectus aut autem", completed: false }
+
+
 # Run server.ts
 
 > deno run --allow-net server.ts
