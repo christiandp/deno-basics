@@ -22,7 +22,7 @@ will return { userId: 1, id: 1, title: "delectus aut autem", completed: false }
 
 > deno run --allow-net server.ts
 
-Routes:
+Simple server routes:
 - http://localhost:8000
 - http://localhost:8000/about
 - http://localhost:8000/contact
