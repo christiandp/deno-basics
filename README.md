@@ -1,6 +1,6 @@
 # Deno Basics
 
-Deno quick look and basic stuff with hello world, requests and simple server with routes.
+Deno quick look and basic stuff with hello world, requests and simple server with routes. (it's amazing!)
 
 # Run hello-world.ts
 
